@@ -7,6 +7,3 @@ my test 2
 my test 3
 Test again
 
-add for my feature modif.
-
-add some other changes
