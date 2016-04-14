@@ -11,4 +11,4 @@ Let me test again. Test commit.
 
 thing in github. New Test. Test again.
 
-Test Dan. New commit. Again. Test. test
+Test Dan. New commit. Again.
